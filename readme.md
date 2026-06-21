@@ -1,8 +1,8 @@
-# 🎨 ColorForge
+# 🎨 ColorFinder
 
 A modern, professional, and responsive color selection platform designed for designers, developers, and creative professionals.
 
-ColorForge allows users to instantly generate and copy multiple color formats including HEX, RGB, HSL, HSLA, and CMYK from a beautiful interactive color picker interface.
+ColorFinder allows users to instantly generate and copy multiple color formats including HEX, RGB, HSL, HSLA, and CMYK from a beautiful interactive color picker interface.
 
 ---
 
@@ -58,7 +58,7 @@ Optimized for:
 ## 📂 Project Structure
 
 ```text
-ColorForge/
+ColorFinder/
 │
 ├── index.html
 ├── style.css
@@ -73,7 +73,7 @@ ColorForge/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/colorforge.git
+git clone https://github.com/your-username/ColorFinder.git
 ```
 
 ### Open the Project
